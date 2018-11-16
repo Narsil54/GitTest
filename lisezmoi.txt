@@ -1,0 +1,9 @@
+
+Premier commit rebasé
+'Hello' 
+Comment va ?
+Yop
+Ajout d'une ligne après premier commit.
+Commit 2 après rebase
+
+Amend sur first comit en rebasant

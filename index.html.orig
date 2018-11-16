@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Test GIT JB</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+    <P> Création d'un commit après le commit initial</P>
+<<<<<<< HEAD
+    <P> J'ajoute un paragraphe en étant repassé sur Master</P>
+    <P> Paragraphe correctif à Master - branche correctif</P>
+=======
+    <P> Basculement sur la branche "brancheTest"</P>
+    <P> Travail poursuivi sur la branche Test, après apport du correctif</P>
+>>>>>>> 31764fc... Fin de la branche Test
+</body>
+</html>
