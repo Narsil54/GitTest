@@ -7,3 +7,5 @@ Ajout d'une ligne après premier commit.
 Commit 2 après rebase
 
 Amend sur first comit en rebasant
+
+Modif après avoir tout rebasé et modifié commit root
